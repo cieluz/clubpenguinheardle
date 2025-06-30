@@ -3814,7 +3814,7 @@ var app = (function() {
       c() {
         (n = w("div")),
         (n.innerHTML =
-          '<p class="mb-3">A clone of <a href="https://www.heardle.app/" title="Heardle">Heardle</a> but for Club Penguin songs!<br><br>Excluding music from branded parties, this includes tracks from: Club Penguin, Penguin Chat 3, Club Penguin: Elite Penguin Force, Herbert\'s Revenge, Game Day, and Club Penguin Island.<br><br>Songs are listed along with where they\'re played, otherwise labeled as \"Club Penguin OST\".</p><br> \n\n<p class="mb-3">Made by <a href="https://cieluz.tumblr.com/">@cieluz</a>. All copyright goes to relevant parties.</p> \n\n\n\n <p class="mb-3">  </p>  \n\n\n\n <p class="text-xs mb-3 text-custom-line">Prepared with <a href="https://developers.soundcloud.com">SoundCloud</a>\n and powered by <a href="https://glitch.com/">Glitch</a>. See the source code <a href="https://glitch.com/edit/#!/club-penguin-heardle">here</a>.'),
+          '<p class="mb-3">A clone of <a href="https://www.heardle.app/" title="Heardle">Heardle</a> but for Club Penguin songs!<br><br>Excluding music from branded parties, this includes tracks from: Club Penguin, Penguin Chat 3, Club Penguin: Elite Penguin Force, Herbert\'s Revenge, Game Day, and Club Penguin Island.<br><br>Songs are listed along with where they\'re played, otherwise labeled as \"Club Penguin OST\".</p><br> \n\n<p class="mb-3">Made by <a href="https://cieluz.tumblr.com/">@cieluz</a>. All copyright goes to relevant parties.</p> \n\n\n\n <p class="mb-3">  </p>  \n\n\n\n <p class="text-xs mb-3 text-custom-line">Prepared with <a href="https://developers.soundcloud.com">SoundCloud</a>.'),
         M(n, "class", "text");
       },
       m(e, t) {
@@ -4671,7 +4671,7 @@ var app = (function() {
             "\n\n" +
             t +
             "\n\n" +
-            "https://club-penguin-heardle.glitch.me/";
+            "https://cieluz.github.io/clubpenguinheardle/";
           if (
             !navigator.share ||
             !/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
